@@ -1,0 +1,63 @@
+.parent{
+    margin-top: 50px;
+}
+
+.inputBtnSection{
+    display: flex;
+   
+    gap: 20px;
+    justify-content: flex-start;
+    margin-left: 140px;
+}
+
+.searchInput{
+    width: 25%;
+    padding: 7px 20px;
+    border-radius: 5px;
+}
+
+.inputBtnSection > button{
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color:  rgb(173, 52, 52);
+    color: white;
+}
+
+.inputBtnSection > button:hover{
+    cursor: pointer;
+    background-color: rgb(189, 80, 80);
+}
+
+.parentBox{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.singleBox{
+    background-color: #bae3f3;
+    padding: 30px;
+}
+
+.singleBox:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.updateDeleteBtns{
+    margin-top: 30px;
+    display: flex;
+    gap: 10px;
+}
+.updateDeleteBtns > button{
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color:  rgb(173, 52, 52);
+    color: white;
+}
+
+.updateDeleteBtns > button:hover{
+    cursor: pointer;
+    background-color: rgb(189, 80, 80);
+}
