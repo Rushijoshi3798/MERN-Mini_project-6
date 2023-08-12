@@ -8,8 +8,8 @@
 <h4>Database - MongoDB</h4>
 
 
-# Deployed Frontend URL 👉 [Click here]([https://frontend-rushijoshi3798.vercel.app/])
-# Deployed Backend URL 👉 [Click here]([https://brainy-bull-threads.cyclic.app/])
+# Deployed Frontend URL 👉 [Click here](https://frontend-rushijoshi3798.vercel.app/)
+# Deployed Backend URL 👉 [Click here](https://brainy-bull-threads.cyclic.app/)
 
 
 - Rushi Joshi </br> (My Linkedin profile :- https://www.linkedin.com/in/rushijoshi3798/) <br/>
